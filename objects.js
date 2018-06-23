@@ -5,4 +5,4 @@ function updatePlaylist(playlist,artistName,songTitle) {
   return playlist;
 }
 
-updatePlaylist(playlist,)
+updatePlaylist(playlist,'Phil Ochs',"Here's To The State Of Mississippi")
